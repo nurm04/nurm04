@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nur Muhammad</h1>
-<h3 align="center">I'm interested in being Fullstack Web Developer and AI Engineer</h3>
+<h3 align="center">I'm interested in being Fullstack Web Developer</h3>
 
 - 🌱 I’m currently learning **Laravel and Vue**
 
@@ -47,5 +47,5 @@
 	<a href="https://github.com/nurm04">
   	<img src="https://profile-counter.glitch.me/nurm04/count.svg" />
 	</a>
-	<p>dvlBoo | 2023</p>
+	<p>nurm04 | 2023</p>
 </div>
